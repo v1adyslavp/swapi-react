@@ -1,0 +1,60 @@
+.CategoryList-navigation {
+  margin: 30px 40px 20px 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.CategoryList-brcrumbs {
+  color: white;
+  letter-spacing: .5em;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.CategoryList-brcrumbs-link {
+  text-decoration: none;
+  color: #81D4FA;
+  font-weight: bold;
+  letter-spacing: .5em;
+}
+
+.CategoryList-brcrumbs-current {
+  display: inline-block;
+}
+
+.CategoryList-brcrumbs-current::first-letter {
+  text-transform: uppercase;
+}
+
+.CategoryList-pagination-wrapper {
+  display: inline-block;
+}
+
+.CategoryList-Items-Container {
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.CategoryList-Items-link {
+  color: rgba(0,0,0,.54);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.CategoryList-Item {
+  background: white;
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 20px 10px 20px 10px;
+}
+
+.CategoryList-Item-title {
+  padding: 15px;
+  width: 170px;
+}
+
+.CategoryList-Item-image img {
+  width: 200px;
+}
