@@ -1,13 +1,13 @@
 {
-  "main.css": "./swapi-react/static/css/main.b8d03702.chunk.css",
-  "main.js": "./swapi-react/static/js/main.0cc1bb50.chunk.js",
-  "main.js.map": "./swapi-react/static/js/main.0cc1bb50.chunk.js.map",
-  "runtime~main.js": "./swapi-react/static/js/runtime~main.6e06fb67.js",
-  "runtime~main.js.map": "./swapi-react/static/js/runtime~main.6e06fb67.js.map",
-  "static/js/2.f6d295a9.chunk.js": "./swapi-react/static/js/2.f6d295a9.chunk.js",
-  "static/js/2.f6d295a9.chunk.js.map": "./swapi-react/static/js/2.f6d295a9.chunk.js.map",
-  "index.html": "./swapi-react/index.html",
-  "precache-manifest.ca68f3e4f635489c23db3b7c8dc7fc39.js": "./swapi-react/precache-manifest.ca68f3e4f635489c23db3b7c8dc7fc39.js",
-  "service-worker.js": "./swapi-react/service-worker.js",
-  "static/css/main.b8d03702.chunk.css.map": "./swapi-react/static/css/main.b8d03702.chunk.css.map"
+  "main.css": "/swapi-react/static/css/main.b8d03702.chunk.css",
+  "main.js": "/swapi-react/static/js/main.6ed0e0e5.chunk.js",
+  "main.js.map": "/swapi-react/static/js/main.6ed0e0e5.chunk.js.map",
+  "runtime~main.js": "/swapi-react/static/js/runtime~main.615c9c00.js",
+  "runtime~main.js.map": "/swapi-react/static/js/runtime~main.615c9c00.js.map",
+  "static/js/2.f6d295a9.chunk.js": "/swapi-react/static/js/2.f6d295a9.chunk.js",
+  "static/js/2.f6d295a9.chunk.js.map": "/swapi-react/static/js/2.f6d295a9.chunk.js.map",
+  "index.html": "/swapi-react/index.html",
+  "precache-manifest.c91cd2ded5190b3b12095fdbab9aed19.js": "/swapi-react/precache-manifest.c91cd2ded5190b3b12095fdbab9aed19.js",
+  "service-worker.js": "/swapi-react/service-worker.js",
+  "static/css/main.b8d03702.chunk.css.map": "/swapi-react/static/css/main.b8d03702.chunk.css.map"
 }
