@@ -1,13 +1,13 @@
 {
-  "main.css": "/swapi-react/static/css/main.b8d03702.chunk.css",
-  "main.js": "/swapi-react/static/js/main.d82bc356.chunk.js",
-  "main.js.map": "/swapi-react/static/js/main.d82bc356.chunk.js.map",
+  "main.css": "/swapi-react/static/css/main.17be0448.chunk.css",
+  "main.js": "/swapi-react/static/js/main.74b781b4.chunk.js",
+  "main.js.map": "/swapi-react/static/js/main.74b781b4.chunk.js.map",
   "runtime~main.js": "/swapi-react/static/js/runtime~main.615c9c00.js",
   "runtime~main.js.map": "/swapi-react/static/js/runtime~main.615c9c00.js.map",
   "static/js/2.f2b6601d.chunk.js": "/swapi-react/static/js/2.f2b6601d.chunk.js",
   "static/js/2.f2b6601d.chunk.js.map": "/swapi-react/static/js/2.f2b6601d.chunk.js.map",
   "index.html": "/swapi-react/index.html",
-  "precache-manifest.0b6a637908496a9de0a7abaeb12a52ca.js": "/swapi-react/precache-manifest.0b6a637908496a9de0a7abaeb12a52ca.js",
+  "precache-manifest.a1bcff869463ea934644067908d8e166.js": "/swapi-react/precache-manifest.a1bcff869463ea934644067908d8e166.js",
   "service-worker.js": "/swapi-react/service-worker.js",
-  "static/css/main.b8d03702.chunk.css.map": "/swapi-react/static/css/main.b8d03702.chunk.css.map"
+  "static/css/main.17be0448.chunk.css.map": "/swapi-react/static/css/main.17be0448.chunk.css.map"
 }
