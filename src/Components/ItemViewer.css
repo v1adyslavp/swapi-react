@@ -1,0 +1,37 @@
+body {
+    background-color: #000000;
+    background-image: url(https://nottinghamastro.org.uk/wp-content/uploads/2014/09/Star-field-hubble-deep-tile.jpg);
+    /* background-position: left top; */
+    /* background-size: auto; */
+    background-repeat: repeat;
+    /* background-attachment: fixed; */
+}
+
+.ItemViewer-brcrumbs {
+  color: white;
+  margin: 20px 25px 20px 25px;
+  letter-spacing: .5em;
+  font-weight: bold;
+}
+
+.ItemViewer-brcrumbs-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #81D4FA;
+  font-weight: bold;
+}
+
+.ItemViewer-brcrumbs-link::first-letter {
+  text-transform: uppercase;
+}
+
+.ItemViewer {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+}
+
+.ItemViewer-back-btn {
+  color: coral;
+  cursor: pointer;
+  font-style: italic;
+}

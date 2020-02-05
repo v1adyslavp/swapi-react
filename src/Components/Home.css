@@ -1,0 +1,45 @@
+.Home-title {
+  margin-top: 1em;
+  text-align: center;
+  color: white;
+}
+
+.Home-title-STARWARS {
+  color: yellow;
+  font-size: 4em;
+}
+
+.Home-Items-Container {
+  margin: auto;
+  max-width: 800px;
+  max-height: 300px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.Home-Item-Wrapper {
+  background: white;
+  margin: 20px;
+}
+
+.Home-Item-Wrapper img {
+  display: block;
+  width: 200px;
+}
+
+.Home-Item-label {
+  padding: 15px;
+  color: rgba(0,0,0,.54);
+  font-weight: bold;
+  
+}
+
+.Home-Item-link {
+  text-decoration: none;
+}
